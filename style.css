@@ -1,0 +1,46 @@
+
+.login{
+    background-color: rgba(204, 208, 248, 0.479);
+    height: 350px;
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding-top: 40px;
+    border-radius: 4px;
+}
+.whole_login {
+    background-image: url("images/bg7.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+.reset{
+    background-color: rgba(204, 208, 248, 0.479);
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 4px;  
+}
+.whole_reset{
+    background-image: url("images/bg12.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;   
+}
+.signup{
+    background-color: rgba(190, 247, 223, 0.342);
+    height: 400px;
+    width: 600px;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    border-radius: 4px;    
+}
+.whole_signup{
+    background-image: url("images/bg15.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;   
+}
